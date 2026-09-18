@@ -11,4 +11,12 @@
     <PublishDir>bin\Publish\</PublishDir>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\naveenkumar\Documents\Visual Studio 18\Projects\mdtohtml\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\naveenkumar\Documents\Visual Studio 18\Projects\mdtohtml\.editorconfig" />
+  </ItemGroup>
+
 </Project>
