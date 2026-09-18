@@ -3,6 +3,9 @@
 [Oo]bj/
 publish/
 
+# Release artifacts
+*.zip
+
 # .NET / Visual Studio
 .vs/
 *.user
